@@ -4,7 +4,7 @@ body {
 
 .main{
   width: 780px;
-  height: 1550px;
+  height: 1570px;
   margin: auto;
   font-size: 16px;
   font-family: Calibri, Tahoma, sans-serif;
@@ -13,6 +13,10 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 3px black;
   background-color: #FFFFFF;
+}
+
+.black {
+  color : black;
 }
 
 .presentation {
@@ -64,3 +68,4 @@ h2 {
   margin-top: 41px;
   font-size: 18px;
 }
+
